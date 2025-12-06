@@ -75,43 +75,36 @@ Type `y` to enable **HTTPS** for the connection.
 To authenticate the import, you need a **HEC token**:
 
 1. Open **Splunk → Settings → Data Inputs**.
-    
 
-![[99 - Meta/attachments/Screenshot_13.png]]
+![Data Inputs](https://drive.google.com/uc?export=view&id=1z_J0eOPXVg6OA8mfXtVTkdl3eqXqd4JB)
 
 2. Open **HTTP Event Collector**.
-    
 
-![[99 - Meta/attachments/Screenshot_14.png]]
+![HTTP Event Collector](https://drive.google.com/uc?export=view&id=1_ES4bHV1t5E9qeCprTSfBvEgpLZ3Q7zI)
 
 3. Create a **New Token** and give it a name.
-    
 
-![[Screenshot_16.png]]
+![Create New Token](https://drive.google.com/uc?export=view&id=1YSgx-rq-ldRHivkmN0k-VsC-07EGT8bQ)
 
-4. Keep it **automatic** and submit.
-    
+4. Keep it automatic and submit.
+
 5. Copy the generated token and paste it in the script terminal.
-    
 
-![[99 - Meta/attachments/Screenshot_18.png]]
+![Copy Token](https://drive.google.com/uc?export=view&id=1ELlcpRrRZlDaw6B7FTiJWCQk4DIlEG_n)
 
 ### **Step 7 — Create Index**
 
 1. Go to **Settings → Indexes**.
-    
 
-![[99 - Meta/attachments/Screenshot_20.png]]
+![Settings Indexes](https://drive.google.com/uc?export=view&id=1MEfCWp00CjuRKmlgQ_GXl8LqFG61SPVE)
 
 2. Create a **New Index**.
-    
 
-![[99 - Meta/attachments/Screenshot_21.png]]
+![New Index](https://drive.google.com/uc?export=view&id=1nkAQPD4iIKI3YWD1kql6PHbQJI3q38Cs)
 
 3. Name it the same as the one you will provide for the script.
-    
 
-![[Screenshot_22 1.png]]
+![Name Index](https://drive.google.com/uc?export=view&id=1SgFbrlRiYJN4lBO6Niv68tCDjneVvGhF)
 
 ---
 
